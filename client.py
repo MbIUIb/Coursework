@@ -31,5 +31,5 @@ for j in count():
         print(s.recvline().decode()[:-1])
 
 
-    # time.sleep(0.08)
+    time.sleep(0.08)
 print(flag)
