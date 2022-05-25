@@ -6,14 +6,14 @@ salary = 300  # $
 flag_cost = 100  # BTC
 bot_time = 0.07
 acceptable_time = 15*60
-flag = 'zssoib{PyTh0n_15_a_B1g_Th1nG_4_U}\n'
-greeting = ['Welcome to the server!\n',
-            'To get the flag, you have to pay 100 BTC. You have the opportunity to earn dollars and exchange them for BTC at a certain rate. Keep in mind that overflowing the balance will lead to a breakdown of the banking system and reset the account!\n',
-            '\n',
-            'Available commands:\n',
-            f'1 -get {salary}$\n',
-            '2 -exchange $ for BTC\n',
-            f'3 -buy a flag for {flag_cost} BTC\n']
+flag = 'zssoib{PyTh0n_15_a_B1g_Th1nG_4_U}'
+greeting = ['Welcome to the server!',
+            'To get the flag, you have to pay 100 BTC. You have the opportunity to earn dollars and exchange them for BTC at a certain rate. Keep in mind that overflowing the balance will lead to a breakdown of the banking system and reset the account!',
+            '',
+            'Available commands:',
+            f'1 -get {salary}$',
+            '2 -exchange $ for BTC',
+            f'3 -buy a flag for {flag_cost} BTC']
 
 
 # приветствие нового клиента и доступные команды
